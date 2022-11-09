@@ -10,6 +10,8 @@
 - add some plugins/themes/completions potentially as repos
 - need simple function for updating plugins
 - pin plugins on commit passed to zapplug
+- implent turning plugins off
 - add links to different plugins on the site or readme, get people out of the oh-my-zsh borg
+- The ideal is to keep the codebase within 50 lines (soft)max 100 hard max
 
 suggestions and contributors welcome
