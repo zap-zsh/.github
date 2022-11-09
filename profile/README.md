@@ -9,6 +9,7 @@
 - make website with just an html file and css file
 - add some plugins/themes/completions potentially as repos
 - need simple function for updating plugins
+- pin plugins on commit passed to zapplug
 - add links to different plugins on the site or readme, get people out of the oh-my-zsh borg
 
 suggestions and contributors welcome
